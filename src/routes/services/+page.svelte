@@ -1,1 +1,5 @@
-<h1>Services</h1>
+<script lang="ts">
+  import { _ } from 'svelte-i18n';
+</script>
+
+<h1>{$_('home.services')}</h1>

@@ -2,10 +2,10 @@
 	import { drawerStore, type DrawerSettings } from '@skeletonlabs/skeleton';
 
   const drawerSettings: DrawerSettings = { 
-    width: 'w-[50%]',
+    width: 'w-60',
     padding: 'pt-16',
     position: 'right',
-    height: 'h-60'
+    height: 'h-80'
   }
 
 	const drawerOpen = (): void => drawerStore.open(drawerSettings);

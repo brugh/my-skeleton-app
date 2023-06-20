@@ -1,0 +1,9 @@
+{
+	"home": {
+    "title": "Titel",
+    "main": "Thuis",
+    "about": "Over", 
+    "services": "Diensten",
+    "contact": "Contact"
+  }
+}
